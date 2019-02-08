@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     //final wordPair = WordPair.random();
     return MaterialApp(
-      title: 'Startup Name Generator',            
+      title: 'Startup Name Generator App',            
       home: RandomWords(),
     );
   }
